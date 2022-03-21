@@ -10,8 +10,7 @@
 - Cryptojs
 - Mongodb
 
-## Apenas o Backend foi finalizado.
-por limitações do termux, o app não pôde ser concluído.
+## Apenas o Backend foi finalizado por limitações do termux, o app não pôde ser concluído.
 
 ### Testando o app
 - `Clone o repositório`
